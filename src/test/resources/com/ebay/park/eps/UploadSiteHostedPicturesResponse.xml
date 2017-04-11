@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UploadSiteHostedPicturesResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+	<Timestamp>2015-07-07T21:59:21.468Z</Timestamp>
+	<Ack>Warning</Ack>
+	<Errors>
+		<ShortMessage>Dimensions of the picture you uploaded are smaller than recommended.</ShortMessage>
+		<LongMessage>To reduce possible issues with picture display quality, eBay recommends that pictures you upload are 1000 pixels or larger on the longest side.</LongMessage>
+		<ErrorCode>21916790</ErrorCode>
+		<SeverityCode>Warning</SeverityCode>
+		<ErrorParameters ParamID="0">
+			<Value>1000</Value>
+		</ErrorParameters>
+		<ErrorClassification>RequestError</ErrorClassification>
+	</Errors>
+	<Version>893</Version>
+	<Build>E893_CORE_MSA_17259588_R1</Build>
+	<PictureSystemVersion>2</PictureSystemVersion>
+	<SiteHostedPictureDetails>
+		<PictureName>user_files/lechuck/item/1/2015-07-07T16:59:04-0500</PictureName>
+		<PictureSet>Standard</PictureSet><PictureFormat>JPG</PictureFormat>
+		<FullURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_1.JPG?set_id=8800005007</FullURL>
+		<BaseURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_</BaseURL>
+		<PictureSetMember>
+			<MemberURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_0.JPG</MemberURL>
+			<PictureHeight>96</PictureHeight>
+			<PictureWidth>96</PictureWidth>
+		</PictureSetMember>
+		<PictureSetMember>
+			<MemberURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_1.JPG</MemberURL>
+			<PictureHeight>400</PictureHeight>
+			<PictureWidth>400</PictureWidth>
+		</PictureSetMember>
+		<PictureSetMember>
+			<MemberURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_2.JPG</MemberURL>
+			<PictureHeight>200</PictureHeight>
+			<PictureWidth>200</PictureWidth>
+		</PictureSetMember>
+		<PictureSetMember>
+			<MemberURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_12.JPG</MemberURL>
+			<PictureHeight>500</PictureHeight>
+			<PictureWidth>500</PictureWidth>
+		</PictureSetMember>
+		<PictureSetMember>
+			<MemberURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_14.JPG</MemberURL>
+			<PictureHeight>64</PictureHeight>
+			<PictureWidth>64</PictureWidth>
+		</PictureSetMember>
+		<PictureSetMember>
+			<MemberURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_35.JPG</MemberURL>
+			<PictureHeight>300</PictureHeight>
+			<PictureWidth>300</PictureWidth>
+		</PictureSetMember>
+		<PictureSetMember>
+			<MemberURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/V3MAAOSw6XdVnEu5/$_39.JPG</MemberURL>
+			<PictureHeight>32</PictureHeight>
+			<PictureWidth>32</PictureWidth>
+		</PictureSetMember>
+		<UseByDate>2015-07-17T21:59:21.093Z</UseByDate>
+	</SiteHostedPictureDetails>
+</UploadSiteHostedPicturesResponse>

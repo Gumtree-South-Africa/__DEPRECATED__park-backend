@@ -1,0 +1,10 @@
+#parse( "/templates/macros.vm" )
+<html>
+    <body>
+        <h3>#msg("terms.title.h3_1")</h3>
+
+        <div>
+            #msg("terms.text.div_1")
+        </div>
+    </body>
+</html>

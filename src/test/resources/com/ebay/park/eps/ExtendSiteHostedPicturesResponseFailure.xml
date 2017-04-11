@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtendSiteHostedPicturesResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+	<Timestamp>2015-07-09T00:04:15.346Z</Timestamp>
+	<Ack>Failure</Ack>
+	<Errors>
+		<ShortMessage>Invalid Picture URL</ShortMessage>
+		<LongMessage>Invalid Picture URL https://api.sandbox.ebay.com/ws/api.dll. Please provide a valid picture url</LongMessage>
+		<ErrorCode>21851</ErrorCode>
+		<SeverityCode>Error</SeverityCode>
+		<ErrorParameters ParamID="0">
+			<Value>https://api.sandbox.ebay.com/ws/api.dll</Value>
+		</ErrorParameters>
+		<ErrorClassification>RequestError</ErrorClassification>
+	</Errors>
+	<Version>893</Version>
+	<Build>E893_CORE_MSA_17259588_R1</Build>
+</ExtendSiteHostedPicturesResponse>

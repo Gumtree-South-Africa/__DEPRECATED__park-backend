@@ -1,0 +1,2 @@
+ALTER TABLE `group` ADD COLUMN grp_description VARCHAR(300) NULL DEFAULT NULL;
+

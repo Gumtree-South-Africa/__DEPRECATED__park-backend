@@ -1,0 +1,1 @@
+ALTER TABLE user_session ADD COLUMN use_ses_swrve_id VARCHAR(255);

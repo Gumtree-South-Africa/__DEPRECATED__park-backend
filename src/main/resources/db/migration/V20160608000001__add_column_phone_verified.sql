@@ -1,0 +1,1 @@
+ALTER TABLE user ADD COLUMN use_mobile_verified bit(1) DEFAULT b'0';

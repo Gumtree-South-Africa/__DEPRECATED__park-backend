@@ -1,0 +1,1 @@
+ALTER TABLE user modify use_username VARCHAR(45) NOT NULL;

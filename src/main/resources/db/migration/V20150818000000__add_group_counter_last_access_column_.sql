@@ -1,0 +1,1 @@
+ALTER TABLE user_group ADD COLUMN ug_last_access DATETIME NOT NULL DEFAULT NOW();

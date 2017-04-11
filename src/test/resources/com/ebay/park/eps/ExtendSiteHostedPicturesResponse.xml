@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtendSiteHostedPicturesResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+	<Timestamp>2015-07-09T00:26:00.455Z</Timestamp>
+	<Ack>Success</Ack>
+	<Version>893</Version>
+	<Build>E893_CORE_MSA_17259588_R1</Build>
+	<PictureURL>http://i.ebayimg.sandbox.ebay.com/00/s/NjAwWDYwMA==/z/AukAAOSwrHxVnU5R/$_12.JPG</PictureURL>
+</ExtendSiteHostedPicturesResponse>

@@ -1,0 +1,1 @@
+INSERT INTO `user_group` (ug_grp_id, ug_use_id) Select A.grp_id, A.grp_creator_id  from `group` A where A.grp_creator_id NOT IN (Select ug_use_id from `user_group`);

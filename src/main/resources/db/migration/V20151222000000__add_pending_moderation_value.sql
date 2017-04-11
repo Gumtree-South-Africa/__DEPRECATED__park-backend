@@ -1,0 +1,1 @@
+ALTER TABLE item ADD COLUMN ite_pending_moderation bit(1) NOT NULL DEFAULT b'1';

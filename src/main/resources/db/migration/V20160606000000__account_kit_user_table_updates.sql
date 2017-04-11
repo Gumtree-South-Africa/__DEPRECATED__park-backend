@@ -1,0 +1,2 @@
+ALTER TABLE user modify use_username VARCHAR(45) NULL DEFAULT NULL,
+modify use_email VARCHAR(255) NULL DEFAULT NULL;

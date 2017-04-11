@@ -1,0 +1,1 @@
+ALTER TABLE user_session ADD COLUMN use_ses_unique_device_id VARCHAR(200) DEFAULT NULL;
